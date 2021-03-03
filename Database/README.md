@@ -1,10 +1,10 @@
 # Database of Galactic Cepheids
 
-Create a homogeneous database of radial velocities, photometry, effective temperature and angular diameters of Galactic Cepheids.
-Last update: December 27th, 2020
-Author: Boris Trahin
-Last use: Breuval et al. 2021
-The .dpy files contains data for more than 300 Cepheids.
+Create a homogeneous database of radial velocities, photometry, effective temperature and angular diameters of Galactic Cepheids. \n
+Last update: December 27th, 2020 \n
+Author: Boris Trahin \n
+Last use: Breuval et al. 2021 \n
+The .dpy files contains data for more than 300 Cepheids. \n
 Names are VSX names such as Delta_Cep, L_Car, RS_Pup, etc.
 
 ## cepheids_data.py:
