@@ -52,7 +52,7 @@ Data not present in an online database. Collected directly from articles or pers
 Create a dictionary \_data_original.dpy with the original data for each Cepheids, as they were published and collected using cepheids_data.py and OtherData.py.
 * readDb_obs : read data from .dpy file for a specified star.
 * writeDb_obs : write data in .dpy file for a specified star.
-* Dictionnaire_data : Create a dictionnary with data (from McMaster and Vizier) and information about the star (useful in SPIPS).
+* Dictionnaire_data : Create a dictionnary with data and information about the star.
 For each star: 2 dictionaries: Data and Info.
 * Info: Informations such as Period (in days), E(B-V), mean Teff, MJD0, eGDR3 distance, etc...
 * Data: dictionnaires of data for each reference.
