@@ -10,7 +10,7 @@ Last use: Breuval et al. 2021
 
 The .dpy files contains data for more than 300 Cepheids.
 
-Names are VSX names such as Delta_Cep, L_Car, RS_Pup, etc.
+Names are VSX names such as 'Delta_Cep' , L_Car, RS_Pup, etc.
 
 ## cepheids_data.py:
 Collect data from online database such as Vizier, McMaster, AAVSO, etc..., using SIMBAD names (then converted into coordinates):
